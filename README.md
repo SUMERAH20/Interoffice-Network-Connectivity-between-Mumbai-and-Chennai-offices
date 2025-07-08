@@ -1,0 +1,2 @@
+# Interoffice-Network-Connectivity-between-Mumbai-and-Chennai-offices
+ This project demonstrates how to design and configure a network that connects two offices — *Mumbai (Head Office)* and *Chennai (Regional Office)* — using *Cisco Packet Tracer*.  The goal was to allow devices in both offices to *communicate over a WAN link, enabling **inter-departmental connectivity* as if they were on the same network.
